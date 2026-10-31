@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="KREAVYN | Web, AI Video & Design Studio" width="100%" />
+<img src="assets/kreavyn-facebook-banner.png" alt="KREAVYN | Web, AI Video & Design Studio" width="100%" />
 
 <br/><br/>
 
